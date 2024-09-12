@@ -2,6 +2,22 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15897290&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+A version control system is mostly based around one concept, tracking changes that happen within directories or files
+What is Git
+Git is a Version Control System or VCS. VCS is basically software designed to record changes within one or more files over time. It allows us to undo or to cancel all made or pending changes within one or more files. If we're working on a project with many files, VCS enables us to control the whole project. If necessary, this allows us to revert one or more files any of their previous versions or the whole project to a previous version. We can also compare changes to one file between two versions in order to see exactly what was changed in each file, when it was changed and who made the change. We can also see why the change was made.
+
+Because Git is a universal system that can be used for version control of all types of files, be it Microsoft Word files, pictures, AutoCAD files, Visual Studio Project, etc.
+
+Types of VCS
+Git is not the only VCS in use. Moreover, Git is just a kind of VCS.
+
+The types of VCS are:
+
+Local Version Control System
+Centralized Version Control System
+Distributed Version Control System
+
+
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
